@@ -9,3 +9,15 @@ Display the first 10 lines of /etc/passwd
 8-ls_cwd_content
 9-duplicate last line
 10-remove all js files
+Count directories
+12-newest lines
+13-unique
+Display lines containing the pattern “root” from the file /etc/passwd
+15-Word count
+16-displays line with root and 3 after
+17-search for files without bin
+18-display all lines of the file
+Replace all characters A and c from input to Z and e respectively
+20-Remove the c
+21-reverse input
+script that displays all users and their home directories, sorted by users
