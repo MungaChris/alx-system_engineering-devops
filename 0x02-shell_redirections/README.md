@@ -7,3 +7,5 @@ Display the first 10 lines of /etc/passwd
 6-Write a script that displays the third line of the file iacta
 7-crazy file
 8-ls_cwd_content
+9-duplicate last line
+10-remove all js files
