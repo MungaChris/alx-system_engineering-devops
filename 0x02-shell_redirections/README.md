@@ -6,3 +6,4 @@ script that prints “Hello, World”, followed by a new line to the standard ou
 Display the first 10 lines of /etc/passwd
 6-Write a script that displays the third line of the file iacta
 7-crazy file
+8-ls_cwd_content
